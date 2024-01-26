@@ -14,6 +14,7 @@ const html = /*html*/ `
     <section id="hero">
       <app-container>
         <h1>Página principal</h1>
+        <p>Hola mundo!<p/>
       </app-container>
     </section>
     <section id="testimonios">
